@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "experimentalDecorators": true,
     "jsx": "preserve",
     "target": "ESNext",
     "useDefineForClassFields": true,
