@@ -1026,36 +1026,10 @@
   resolved "https://mirrors.cloud.tencent.com/npm/@types%2festree/-/estree-1.0.0.tgz#5fb2e536c1ae9bf35366eed879e827fa59ca41c2"
   integrity sha512-WulqXMDUTYAXCjZnk6JtIHPigp55cVtDgDrO2gHRwhyJto21+1zbVCtOYB2L1F9w4qCQ0rOGWBnBe0FNTiEJIQ==
 
-"@types/prop-types@*":
-  version "15.7.5"
-  resolved "https://mirrors.cloud.tencent.com/npm/@types%2fprop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"
-  integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
-
 "@types/raphael@2.3.1":
   version "2.3.1"
   resolved "https://mirrors.cloud.tencent.com/npm/@types%2fraphael/-/raphael-2.3.1.tgz#5e8e69c35f2c8a89a6e5cf0f9ff87004bbc6f3bb"
   integrity sha512-zsocvfGMgQT9kVwGYthhWifd5iUw3nhzXZyO7+V9+B69kNYi6x0FN9W2k9dLJecXsk4HR6aKVmaSQjkWGo3N9w==
-
-"@types/react-dom@^17.0.10":
-  version "17.0.18"
-  resolved "https://mirrors.cloud.tencent.com/npm/@types%2freact-dom/-/react-dom-17.0.18.tgz#8f7af38f5d9b42f79162eea7492e5a1caff70dc2"
-  integrity sha512-rLVtIfbwyur2iFKykP2w0pl/1unw26b5td16d5xMgp7/yjTHomkyxPYChFoCr/FtEX1lN9wY6lFj1qvKdS5kDw==
-  dependencies:
-    "@types/react" "^17"
-
-"@types/react@^17", "@types/react@^17.0.33":
-  version "17.0.52"
-  resolved "https://mirrors.cloud.tencent.com/npm/@types%2freact/-/react-17.0.52.tgz#10d8b907b5c563ac014a541f289ae8eaa9bf2e9b"
-  integrity sha512-vwk8QqVODi0VaZZpDXQCmEmiOuyjEFPY7Ttaw5vjM112LOq37yz1CDJGrRJwA1fYEq4Iitd5rnjd1yWAc/bT+A==
-  dependencies:
-    "@types/prop-types" "*"
-    "@types/scheduler" "*"
-    csstype "^3.0.2"
-
-"@types/scheduler@*":
-  version "0.16.2"
-  resolved "https://mirrors.cloud.tencent.com/npm/@types%2fscheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
-  integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
 "@types/tern@*":
   version "0.23.4"
@@ -1204,11 +1178,6 @@ core-js-compat@^3.1.1:
   integrity sha512-622/KzTudvXCDLRw70iHW4KKs1aGpcRcowGWyYJr2DEBfRrd6hNJybxSWJFuZYD4ma86xhrwDDHxmDaIq4EA8A==
   dependencies:
     browserslist "^4.21.4"
-
-csstype@^3.0.2:
-  version "3.1.1"
-  resolved "https://mirrors.cloud.tencent.com/npm/csstype/-/csstype-3.1.1.tgz#841b532c45c758ee546a11d5bd7b7b473c8c30b9"
-  integrity sha512-DJR/VvkAvSZW9bTouZue2sSxDwdTN92uHjqeKVm+0dAqdfNykRzQ95tay8aXMBAAPpUiq4Qcug2L7neoRh2Egw==
 
 debug@^4.1.0:
   version "4.3.4"

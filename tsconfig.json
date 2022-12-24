@@ -14,10 +14,7 @@
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "noEmit": true,
-    "paths": {
-      "react": ["./node_modules/react/index.js"]
-    }
+    "noEmit": true
   },
   "include": ["src", "./global.d.ts"],
   "exclude": ["node_modules", "dist"],
